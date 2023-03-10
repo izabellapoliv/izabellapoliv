@@ -3,7 +3,7 @@
     <h3>:ok_woman: Izabella Oliveira | 💻 Full Stack Developer | :brazil: Brazilian</h3>
 </div>
 <p align="center">
-    <a href="https://www.linkedin.com/in/izabellapoliv/">
+    <a href="https://www.linkedin.com/in/izabellapoliv/" target="_blank">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="25" />
     </a>
     <br><br>
