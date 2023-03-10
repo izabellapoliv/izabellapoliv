@@ -15,7 +15,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=izabellapoliv&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues&theme=radical&hide_border=true&card_width=500" alt="izabellapoliv's github stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabellapoliv&layout=compact&count_private=true&theme=radical&hide_border=true&hide_progress=true&card_width=400" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabellapoliv&layout=compact&count_private=true&theme=radical&hide_border=true&hide_progress=true&card_width=200" />
     </a>
     <br><br>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
