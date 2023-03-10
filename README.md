@@ -3,11 +3,9 @@
     <h3>:ok_woman: Izabella Oliveira | 💻 Full Stack Developer | :brazil: Brazilian</h3>
 </div>
 <p align="center">
-    <a href="https://visitor-badge.glitch.me/badge?page_id=izabellapoliv.izabellapoliv">
-        <img alt="izabellapoliv github" src="https://visitor-badge.glitch.me/badge?page_id=izabellapoliv.izabellapoliv">
+    <a href="https://www.linkedin.com/in/izabellapoliv/">
+        <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="25" />
     </a>
-    |
-    <a href="https://www.linkedin.com/in/izabellapoliv/">:link:</a>
     <br><br>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img align="center" src="https://streak-stats.demolab.com/?user=izabellapoliv&theme=radical&hide_border=true" />
