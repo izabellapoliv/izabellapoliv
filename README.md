@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/izabellapoliv/" target="_blank">
         <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="25" />
     </a>
+    <br>
+    I'm a big fan of technology, trying new things, and corny jokes.<br>
+    Feel free to reach out if you'd like to talk :alien:
     <br><br>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img align="center" src="https://streak-stats.demolab.com/?user=izabellapoliv&theme=radical&hide_border=true" />
